@@ -1,0 +1,12 @@
+Substituting with steady state GA proved useful. Lesser numbe rof computations. faster result and better output.
+
+
+
+To do,
+ 1) convert back the binary string to rules in english
+ 2) use the rules to filter the entire KDD CUP data.
+ 3) use different variable alterations
+		- show which combination creates better rules.
+		- show whcih combination creates better 
+4) improve searching time
+	

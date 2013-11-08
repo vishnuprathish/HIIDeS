@@ -1,0 +1,3 @@
+galib247 - The Genetic Algorithm Library
+Garog - The GA learner Algorithm
+hiides - the IDS segment without GA

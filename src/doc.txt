@@ -1,0 +1,8 @@
+Basic Docnumentation of GA segment. Code is documented through comments. 
+
+training.data, trainng1.data - The training data from which the learner learns
+binary.data - output of bitstr.c which converts the training data into bitstring
+gaSteadysState.C - The Steady State GA - the learner algorithm
+output.data - output of learner algorithm
+
+to compile, add the the linker -lpcap for IDS segment, -lga for ga related files
